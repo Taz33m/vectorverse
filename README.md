@@ -1,5 +1,7 @@
 # 🧩 Vectorverse - An Educational Physics Sandbox
 
+![Vectorverse Logo](vectorverse.png)
+
 An interactive, visual C++ application designed to help students learn fundamental physics concepts through real-time simulation and experimentation. Can also be used to learn intermediate C++.
 
 ## 🎯 Overview
